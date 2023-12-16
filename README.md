@@ -1,5 +1,11 @@
 # Deploying  Swiggy clone app in Kubernetes Cluster using CICD Pipeline.
 
+<div align="center">
+  <img src="https://i.ytimg.com/vi/dMVrwaYojYs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDFY-RWFRoPVJ8Cl1R4nXXC4ay1Ng" alt="Logo" width="90%" height="90%">
+  <p align="center"</p>
+</div>
+
+
 ### Pipeline Script
 
 ```groovy
