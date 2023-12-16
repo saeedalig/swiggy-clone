@@ -175,6 +175,8 @@ pipeline {
 
 ```
 
+***You can take a look at the detailed "Server Setup for Pipeline" guide [here](https://github.com/saeedalig/Netflix-Clone-App).***
+
 
 
 
